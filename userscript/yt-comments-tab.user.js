@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         yt-comments-tab
 // @namespace    https://github.com/kairi003/
-// @version      0.1.0
+// @version      0.1.1
 // @description  Display tabs for switching between related videos and comments on the YouTube in single-column mode.
 // @author       kairi003
 // @match        https://www.youtube.com/*
 // @updateURL    https://github.com/kairi003/yt-comments-tab/raw/master/userscript/yt-comments-tab.user.js
 // @downloadURL  https://github.com/kairi003/yt-comments-tab/raw/master/userscript/yt-comments-tab.user.js
+// @icon         https://www.youtube.com/favicon.ico
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
